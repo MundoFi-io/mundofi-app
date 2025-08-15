@@ -117,11 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Expo Team**: For the amazing React Native development platform
 - **React Native Community**: For the open-source libraries and tools
 
-## 📞 Contact
-
-**Kenneth Lopez** - Developer  
-**Project**: MundoFi - CDP Grant Application 2024
-
 ---
 
 *Built with ❤️ for the Coinbase CDP Grant Program*
