@@ -3,8 +3,7 @@
 **Build real-world trust through transparent financial reporting**
 
 MundoFi is a financial trust platform that enables users to generate verifiable crypto savings reports for real-world applications (loans, credit, rentals). By combining goal-based savings with transparent blockchain reporting, users build financial credibility while maintaining self-custody of their assets. Built for the Coinbase CDP Grant program.
-
-![MundoFi Banner](app/assets/earth-background.jpg)
+<img width="1280" height="640" alt="Github" src="https://github.com/user-attachments/assets/cd1a9a64-6861-4996-ae74-dab3a35ef6c1" />
 
 ## ✨ Core Features
 
